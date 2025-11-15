@@ -1,9 +1,5 @@
 # SauceDemo Playwright Automation
 
-This repository contains **Playwright automation tests** for [SauceDemo](https://www.saucedemo.com/) website.  
-The tests follow **Page Object Model (POM)** structure, include **Allure reporting**, and are configured for **GitHub Actions CI/CD**.
-
----
 
 ## Features
 
@@ -16,14 +12,7 @@ The tests follow **Page Object Model (POM)** structure, include **Allure reporti
 - CI/CD ready (GitHub Actions)
 
 ---
-## Prerequisites
 
-- Node.js >= 18
-- npm
-- Git
-- Optional: Allure Commandline (`npm install -g allure-commandline`)
-
----
 ## Setup Instructions
 
 1. **Clone the repository**
