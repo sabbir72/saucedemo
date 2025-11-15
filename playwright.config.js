@@ -5,7 +5,7 @@ const config = {
     ['allure-playwright']     // Allure reporter
   ],
   use: {
-    headless: false,          // Browser visible mode
+    headless: true,          // Browser visible mode
     screenshot: 'only-on-failure',  
     video: 'retain-on-failure'
   }
